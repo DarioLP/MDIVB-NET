@@ -1,4 +1,7 @@
-﻿Public Class Splash
+﻿'   Desarrollo de Software 8 | Laboratorio No7 | Estudiante: Darío López
+
+
+Public Class Splash
 
     Dim contador As Byte = 0
     Private Sub ProgressBar1_Click(sender As Object, e As EventArgs) Handles ProgressBar1.Click

@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class WindDataGrid
     Inherits System.Windows.Forms.Form
 
     'Form reemplaza a Dispose para limpiar la lista de componentes.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class WindDataGrid
     'NOTA: el Diseñador de Windows Forms necesita el siguiente procedimiento
     'Se puede modificar usando el Diseñador de Windows Forms.  
     'No lo modifique con el editor de código.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.DataGridView1 = New System.Windows.Forms.DataGridView()
         Me.c1 = New System.Windows.Forms.DataGridViewTextBoxColumn()
@@ -28,7 +28,6 @@ Partial Class WindDataGrid
         Me.Column3 = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.Column4 = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.BtnIngresar = New System.Windows.Forms.Button()
-        Me.BtnSuma = New System.Windows.Forms.Button()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -77,21 +76,11 @@ Partial Class WindDataGrid
         Me.BtnIngresar.Text = "Ingresar"
         Me.BtnIngresar.UseVisualStyleBackColor = True
         '
-        'BtnSuma
-        '
-        Me.BtnSuma.Location = New System.Drawing.Point(383, 280)
-        Me.BtnSuma.Name = "BtnSuma"
-        Me.BtnSuma.Size = New System.Drawing.Size(75, 23)
-        Me.BtnSuma.TabIndex = 2
-        Me.BtnSuma.Text = "Sumar"
-        Me.BtnSuma.UseVisualStyleBackColor = True
-        '
         'WindDataGrid
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(470, 315)
-        Me.Controls.Add(Me.BtnSuma)
         Me.Controls.Add(Me.BtnIngresar)
         Me.Controls.Add(Me.DataGridView1)
         Me.Name = "WindDataGrid"
@@ -107,5 +96,4 @@ Partial Class WindDataGrid
     Friend WithEvents Column3 As DataGridViewTextBoxColumn
     Friend WithEvents Column4 As DataGridViewTextBoxColumn
     Friend WithEvents BtnIngresar As Button
-    Friend WithEvents BtnSuma As Button
 End Class
