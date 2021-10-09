@@ -1,0 +1,14 @@
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\MDIVB-NET\AsignaciónNo7\bin\Debug\AsignaciónNo7.exe.config
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\MDIVB-NET\AsignaciónNo7\bin\Debug\AsignaciónNo7.exe
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\MDIVB-NET\AsignaciónNo7\bin\Debug\AsignaciónNo7.pdb
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\MDIVB-NET\AsignaciónNo7\bin\Debug\AsignaciónNo7.xml
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\MDIVB-NET\AsignaciónNo7\obj\Debug\AsignaciónNo7.vbprojAssemblyReference.cache
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\MDIVB-NET\AsignaciónNo7\obj\Debug\AsignaciónNo7.Resources.resources
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\MDIVB-NET\AsignaciónNo7\obj\Debug\AsignaciónNo7.Splash.resources
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\MDIVB-NET\AsignaciónNo7\obj\Debug\AsignaciónNo7.vbproj.GenerateResource.cache
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\MDIVB-NET\AsignaciónNo7\obj\Debug\AsignaciónNo7.vbproj.CoreCompileInputs.cache
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\MDIVB-NET\AsignaciónNo7\obj\Debug\AsignaciónNo7.exe
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\MDIVB-NET\AsignaciónNo7\obj\Debug\AsignaciónNo7.xml
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\MDIVB-NET\AsignaciónNo7\obj\Debug\AsignaciónNo7.pdb
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\MDIVB-NET\AsignaciónNo7\obj\Debug\AsignaciónNo7.Principal.resources
+C:\Users\Trmca\Documents\UTP\semestre_2_2021\DesSoftVIII\MDIVB-NET\AsignaciónNo7\obj\Debug\AsignaciónNo7.WindDataGrid.resources
